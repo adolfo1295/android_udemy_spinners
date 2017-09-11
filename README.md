@@ -1,1 +1,3 @@
-# android_udemy_spinners
+# Android proyect - intro
+
+Proyecto de introduccion especidifcaod en el uso de los spinners
